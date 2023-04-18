@@ -17,10 +17,6 @@ class AnswerController extends Controller
 
     public function create(Application $application)
     {
-        // if (! Gate::allows('answer-application', auth()->user())) {
-        //     abort(403);
-        // }
-
         return view('answer.create')->with([
             'application' => $application,
         ]);
