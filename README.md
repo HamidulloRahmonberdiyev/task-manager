@@ -7,7 +7,7 @@ PHP: v8.1.9
 
 ## About project
 
-This project prepared for portfolio. Founder of the project is Hamidullo Rahmonberdiyev.
+This project prepared for portfolio. This site for online send application.
 
 ## Installiation of the project
 
